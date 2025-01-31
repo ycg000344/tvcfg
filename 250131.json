@@ -1,13 +1,22 @@
 {
     "lives": [
         {
-            "name": "①live",
+            "name": "live-1",
             "type": 0,
             "url": "./ssili126/itvlist.txt",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "playerType": 2,
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+            "epg": "https://live.fanmingming.cn/tv/{name}.png", 
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
+        },
+        {
+            "name": "live-2",
+            "type": 0,
+            "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "playerType": 2,
+            "epg": "https://live.fanmingming.cn/tv/{name}.png", 
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         }
     ]
 }
