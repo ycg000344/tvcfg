@@ -3,7 +3,7 @@
         {
             "name": "①live",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
             "ua": "okhttp/3",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
