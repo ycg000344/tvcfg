@@ -1,15 +1,9 @@
 {
     "lives": [
         {
-            "name": "live-3",
-            "type": 0,
-            "url": ".Guovin/result.m3u",
-            "playerType": 2
-        }
-        ,{
             "name": "live-2",
             "type": 0,
-            "url": ".Guovin/result.txt",
+            "url": "./Guovin/result.txt",
             "playerType": 2
         }
         ,{
