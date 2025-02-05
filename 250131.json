@@ -3,7 +3,7 @@
         {
             "name": "live-2",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+            "url": ".Guovin/result.txt",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "playerType": 2
         }
